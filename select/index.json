@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "アイリス",
+  "base_artist": "潤羽るしあ",
+  "createdAt": "2025-12-17T10:26:49.908140Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイリス",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/01_アイリス_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイリス",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/02_アイリス_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイリス",
+      "artist": "水槽 feat. Qujila",
+      "has_synced": true,
+      "path": "select/03_アイリス_水槽_feat._Qujila.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アイリス",
+      "artist": "水槽/whaledontsleep",
+      "has_synced": true,
+      "path": "select/04_アイリス_水槽_whaledontsleep.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アイリス",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/05_アイリス_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アイリス",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/06_アイリス_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アイリス",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/07_アイリス_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アイリス",
+      "artist": "潤羽るしあ",
+      "has_synced": true,
+      "path": "select/08_アイリス_潤羽るしあ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アイリス",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/09_アイリス_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アイリス",
+      "artist": "ZUN",
+      "has_synced": false,
+      "path": "select/10_アイリス_ZUN.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アイリス",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/11_アイリス_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アイリス",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/12_アイリス_藍井エイル.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイリス",
+      "artist": "潤羽るしあ",
+      "has_synced": false,
+      "path": "select/pl_01_アイリス_潤羽るしあ.txt"
+    }
+  ]
+}
